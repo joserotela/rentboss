@@ -16,7 +16,7 @@
   ],
   "functions": [
     {
-      "source": ".firebase/rentboss/functions",
+      "source": ".firebase/rentboss/functions", 
       "region": "us-east1"
     }
   ]
